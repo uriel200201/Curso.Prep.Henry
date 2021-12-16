@@ -1,0 +1,15 @@
+    * Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+Variables: Las variables son valores que se guardan en la memoria de la computadora para ser usados mas adelante en el programa.
+
+String: Es un tipo de valor que se le puede dar a las variables, el string hace referencia a que es una cadena de texto.
+
+Funciones: Las funciones son pequeñas partes de codigo que se pueden repetir de vez en cuando, estas reciben unos parametros para poder llevar a cabo la tarea, estos parametros pueden ser variables o valores fijos, pero mayormente son variables, las funciones siempre devuelven/retornan lo que nosotros le pedimos que haga y eso se hace con la palabra clave 'return'.
+
+Declaraciones 'if': Las declaraciones if son condicionales, estas se guian por valores booleanos ('true' 'verdadero' y 'false' 'falso'), esto se hace en base a parametros que recive esta condicional, esto se puede utilizar para pedirle al programa que haga una acción cuando el valor es verdadero u otra cuando el valor sea falso.
+
+Valores booleanos: Los valores booleanos son solo dos, 'true' o 'false', no hay otro muchas veces se los compara con el sistema binario 0 y 1, se utilizan mucho en los condicionales 'while', 'for', 'if'.
