@@ -145,14 +145,14 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
-  return num ** 2
+  return Math.pow(num, 2)
 }
 
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
 
-  return num ** 3
+  return Math.pow(num, 3)
 
 }
 
@@ -160,7 +160,7 @@ function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
 
-  return num ** exponent
+  return Math.pow(num, exponent)
 }
 
 function redondearNumero(num) {
@@ -268,6 +268,12 @@ function esVocal(letra) {
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   // Si no es vocal, tambien debe devolver "Dato incorrecto".
   //Escribe tu código aquí
+
+  if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u' && (letra.length() < 2 || letra.length() > 0)) {
+    return 'Es vocal'
+  } else {
+    return 'Dato incorrecto'
+  }
 }
 
 

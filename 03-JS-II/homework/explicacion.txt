@@ -1,0 +1,10 @@
+* `for`
+* `&&`, `||`, `!`
+
+for: los bucles for son un tipo de condicionales, lo unico diferente que tiene con el if es que esta se repite constante mente hasta que se deja de cumplir la condicion
+
+&&: El operador lógico 'AND' evalua que ambas proposiciones sean verdaderas, si esto se cumple retorna 'true' en caso que una de las dos sea falsa, esta retornara 'false'.
+
+||: El operador lógico 'OR' evalua lo mismo que el operador 'AND', con la unica diferencia que tiene es que retorna false si y solo si ambas preposiciones son falsas, en los demas casos devolvera true.
+
+!: El operador lógico 'NOT' retorna el valor contrario esto quiere decir que si una preposicion es verdadera este la ccambiara a falsa.
