@@ -1,0 +1,15 @@
+    * Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchete
+
+Objetos: Los objetos son variables que dentro tienen ingormacion detallada sobre una cosa, es como un array, pero este lo que tiene que la asociación es entre una clave y un valor como por ejemplo 'Nombre' : 'Uriel', en cambio en el array es dependiendo que elemento vaya antes es su clave.
+
+Propiedades: Las propiedades de un objeto son las variables que tiene ese objeto, como puede ser el nombre, la cantidad de años, el color de piel, de una persona.
+
+Métodos: Son las acciones o funciones que ese objeto puede realizar, como saludar, pedir informacion.
+
+Bucle `for...in`: Este bucle es ligeramente parecido al bucle for tradicional, solo que este se utiliza para recorrer los objetos, ya que los objetos no tienen índices numéricos
+
+Tipos de notación: La notación por puntos, es específica, ya que llama a una propiedad, en cambio la notacion por corchetes, puede llamar a una propiedad y tambien a una variable, todo depende de si se usan las comillas o no

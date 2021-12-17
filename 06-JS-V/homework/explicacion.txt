@@ -1,0 +1,7 @@
+* `prototype`
+* _Constructors_ (de Clases)
+
+
+prototype: Sirve para guardar propiedades y métodos, esto sirve para liberar memoria en la computadora ya que al crear objetos, sus propiedades y metodos se guardarian en la memoria, en cambio con prototype, se crea una sola vez.
+
+_Constructors_: Sirve para instanciar las propiedades que estan dentro de las clases, solo puede haber uno metodo Constructor en la clase.
