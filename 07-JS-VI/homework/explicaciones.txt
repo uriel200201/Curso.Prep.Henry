@@ -1,0 +1,3 @@
+* Funciones Callback
+
+Funciones Callback: Las funciones Callback son aquellas que estan dentro de los parametros de otra funcion 
